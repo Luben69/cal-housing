@@ -14,9 +14,9 @@ This project explores the California Housing dataset and builds machine learning
 ## Final Model and Results
 The tuned Random Forest achieved the following results on the test set:
 
- MAE = 0.326007 (~$32,600)
-RMSE = 0.503828 (~$50,400)
-R² = 0.806288 
+    MAE = 0.326007 ($32,600)
+    RMSE = 0.50828 ($50,400)
+    R² = 0.806288 
 
 ## Key Findings
 - Median income (`MedInc`) was the strongest predictor in the feature-importance analyses.
